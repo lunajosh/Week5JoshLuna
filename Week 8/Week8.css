@@ -1,0 +1,95 @@
+body {
+    background-color:rgb(248, 248, 251);
+
+}
+
+h1 {
+    color: rgb(180, 217, 224);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;font-size: 80px;
+}
+h2 {
+    color: rgb(209, 215, 215);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;font-size: 40px;
+}
+h3 {
+    color: rgb(180, 217, 224);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;font-size: 80px;
+}
+
+div {
+    background-color: white;
+    color: rgb(89, 84, 84);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+      }
+
+.center {
+    display: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+    a:link, a:visited {
+        background-color: #ccd7e2;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        display: block;
+        width: 100px;
+        margin: auto;
+        
+    }
+    div {
+        float: left;
+      }
+ 
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    div{
+        text-align: center;
+       
+    }
+    
+
+      a:hover, a:active {
+        background-color: rgb(111, 168, 216);
+      }
+
+.shadow-text {
+    text-shadow: rgb(203, 210, 226) 1px 1px;
+}
+
+#large-paragraph {
+    font-size: 40 px;
+}
+
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #nav-bar{
+    position: fixed;
+    display: flex;
+  }
+  
+  .nav-link{
+     padding: 5px;
+  }
